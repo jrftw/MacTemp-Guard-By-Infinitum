@@ -11,38 +11,40 @@ This repository contains the latest releases of **MacTemp Guard** - the ultimate
 
 ### 📥 Download Links
 
+**🎯 [Download Latest Release](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/latest)**
+
 #### **Apple Silicon Macs (M1/M2/M3/M4)**
-- **[MacTemp Guard v1.0.0 (Apple Silicon).dmg](releases/MacTemp%20Guard%20v1.0.0%20(Apple%20Silicon).dmg)** - Recommended for Apple Silicon Macs
-- **[MacTemp Guard v1.0.0 (Apple Silicon).zip](releases/MacTemp%20Guard%20v1.0.0%20(Apple%20Silicon).zip)** - Alternative ZIP format
+- **[MacTemp Guard v1.0.0 (Apple Silicon).dmg](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Apple%20Silicon).dmg)** - Recommended for Apple Silicon Macs
+- **[MacTemp Guard v1.0.0 (Apple Silicon).zip](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Apple%20Silicon).zip)** - Alternative ZIP format
 
 #### **Intel Macs**
-- **[MacTemp Guard v1.0.0 (Intel).dmg](releases/MacTemp%20Guard%20v1.0.0%20(Intel).dmg)** - Recommended for Intel Macs
-- **[MacTemp Guard v1.0.0 (Intel).zip](releases/MacTemp%20Guard%20v1.0.0%20(Intel).zip)** - Alternative ZIP format
+- **[MacTemp Guard v1.0.0 (Intel).dmg](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Intel).dmg)** - Recommended for Intel Macs
+- **[MacTemp Guard v1.0.0 (Intel).zip](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Intel).zip)** - Alternative ZIP format
 
 #### **Universal Package**
-- **[MacTemp Guard v1.0.0 (Universal).zip](releases/MacTemp%20Guard%20v1.0.0%20(Universal).zip)** - Contains both Apple Silicon and Intel versions
+- **[MacTemp Guard v1.0.0 (Universal).zip](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Universal).zip)** - Contains both Apple Silicon and Intel versions
 
 ### 🔧 System Requirements
 
-- **macOS:** 13.0 or later
-- **Architecture:** Apple Silicon (M1/M2/M3/M4) or Intel
-- **Memory:** 4GB RAM minimum
-- **Storage:** 50MB available space
+* **macOS:** 13.0 or later
+* **Architecture:** Apple Silicon (M1/M2/M3/M4) or Intel
+* **Memory:** 4GB RAM minimum
+* **Storage:** 50MB available space
 
 ### 📋 Features
 
-- **Real-time Thermal Monitoring** - Monitor CPU, GPU, and system temperatures
-- **Intelligent Fan Control** - Custom fan curves and automatic fan management
-- **Advanced Analytics** - Detailed thermal performance insights
-- **Silent Background Operation** - Runs quietly in the background
-- **Auto-Updates** - Automatic update checking and installation
-- **Cross-Platform Compatibility** - Works on all modern Macs
+* **Real-time Thermal Monitoring** - Monitor CPU, GPU, and system temperatures
+* **Intelligent Fan Control** - Custom fan curves and automatic fan management
+* **Advanced Analytics** - Detailed thermal performance insights
+* **Silent Background Operation** - Runs quietly in the background
+* **Auto-Updates** - Automatic update checking and installation
+* **Cross-Platform Compatibility** - Works on all modern Macs
 
 ### 🛡️ Security
 
-- **Notarized by Apple** - Verified and trusted by macOS
-- **No Data Collection** - Your privacy is protected
-- **Regular Updates** - Security patches and improvements
+* **Notarized by Apple** - Verified and trusted by macOS
+* **No Data Collection** - Your privacy is protected
+* **Regular Updates** - Security patches and improvements
 
 ### 📥 Installation
 
@@ -55,16 +57,16 @@ This repository contains the latest releases of **MacTemp Guard** - the ultimate
 
 MacTemp Guard includes automatic update functionality:
 
-- **Check Frequency:** On launch, daily, weekly, or monthly (configurable)
-- **Silent Downloads:** Updates download in the background
-- **Smart Notifications:** Get notified when updates are ready
-- **Automatic Installation:** Optional automatic installation
+* **Check Frequency:** On launch, daily, weekly, or monthly (configurable)
+* **Silent Downloads:** Updates download in the background
+* **Smart Notifications:** Get notified when updates are ready
+* **Automatic Installation:** Optional automatic installation
 
 ### 📞 Support
 
-- **Email:** support@infinitumimagery.com
-- **Documentation:** Available in the app
-- **Updates:** Automatic through the app
+* **Email:** support@infinitumimagery.com
+* **Documentation:** Available in the app
+* **Updates:** Automatic through the app
 
 ### 🏢 About
 
@@ -76,19 +78,20 @@ MacTemp Guard includes automatic update functionality:
 
 ### 📊 Release Information
 
-- **Current Version:** v1.0.0
-- **Release Date:** August 13, 2025
-- **File Sizes:**
-  - Apple Silicon DMG: ~5.9 MB
-  - Intel DMG: ~5.9 MB
-  - Universal ZIP: ~11.0 MB
+* **Current Version:** v1.0.0
+* **Release Date:** August 13, 2025
+* **File Sizes:**  
+   * Apple Silicon DMG: ~5.9 MB  
+   * Intel DMG: ~5.9 MB  
+   * Universal ZIP: ~11.0 MB
 
 ### 🔐 Verification
 
 All files include SHA256 checksums for verification:
-- `MacTemp Guard v1.0.0 (Apple Silicon).dmg.sha256`
-- `MacTemp Guard v1.0.0 (Intel).dmg.sha256`
-- `MacTemp Guard v1.0.0 (Universal).zip.sha256`
+
+* **[MacTemp Guard v1.0.0 (Apple Silicon).dmg.sha256](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Apple%20Silicon).dmg.sha256)**
+* **[MacTemp Guard v1.0.0 (Intel).dmg.sha256](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Intel).dmg.sha256)**
+* **[MacTemp Guard v1.0.0 (Universal).zip.sha256](https://github.com/jrftw/MacTemp-Guard-By-Infinitum/releases/download/v1.0.0/MacTemp%20Guard%20v1.0.0%20(Universal).zip.sha256)**
 
 ---
 
