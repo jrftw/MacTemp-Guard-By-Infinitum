@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Build artifacts
+build/
+dist/
+*.dmg
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Source code (this is a download-only repo)
+*.swift
+*.h
+*.m
+*.mm
+*.c
+*.cpp
+*.hpp
+*.plist
+*.storyboard
+*.xib
+*.xcassets
+*.xcworkspace
+*.xcodeproj
