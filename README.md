@@ -6,8 +6,8 @@ This repository contains the latest releases of **MacTemp Guard** - the ultimate
 
 ### 📦 Latest Release
 
-**Version:** [Latest Version]  
-**Release Date:** [Release Date]  
+**Version:** v1.0.0  
+**Release Date:** August 13, 2025  
 **Download:** [Download Link]
 
 ### 🔧 System Requirements
